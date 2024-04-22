@@ -1048,63 +1048,65 @@ msgstr "GRUB-enhet er ikke valgt"
 
 #: src/AppConsole.vala:1060
 msgid "GRUB will NOT be reinstalled"
-msgstr ""
+msgstr "GRUB kommer IKKE til å bli reinstallert"
 
 #: src/Core/Main.vala:2509
 msgid "Generating initramfs..."
-msgstr ""
+msgstr "Generer initramfs"
 
 #: src/AppConsole.vala:385
 msgid "Global"
-msgstr ""
+msgstr "Globalt"
 
 #: src/Gtk/BackupBox.vala:100 src/Gtk/RestoreBox.vala:135
 #: src/Gtk/RsyncLogBox.vala:400
 #, c-format
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 #: src/Gtk/SnapshotBackendBox.vala:141
 msgid "Help"
-msgstr ""
+msgstr "Hjelp"
 
 #: src/Gtk/ExcludeMessageWindow.vala:128
 msgid ""
 "Hidden files and folders are included by default since they contain user-"
 "specific configuration files."
 msgstr ""
+"Skjulte filer og mapper blir inkludert som standard siden de inneholder bruker-"
+"spesifikke konfigurasjonsfiler."
 
 #: src/Gtk/DeleteWindow.vala:181
 msgid "Hide"
-msgstr ""
+msgstr "Skjul"
 
 #: src/AppConsole.vala:392
 msgid "Hide rsync output"
-msgstr ""
+msgstr "Skjul rsync beskjeder"
 
 #: src/Gtk/DeleteWindow.vala:182
 msgid "Hide this window (files will be deleted in background)"
-msgstr ""
+msgstr "Skjul dette vinduet (filer blir slettet i bakgrunnen)"
 
 #: src/Gtk/UsersBox.vala:116
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: src/Gtk/ExcludeMessageWindow.vala:115
 msgid "Home Directory"
-msgstr ""
+msgstr "Hjemme mappe"
 
 #: src/Gtk/SnapshotListBox.vala:298 src/Gtk/ScheduleBox.vala:118
 msgid "Hourly"
-msgstr ""
+msgstr "Hver time"
 
 #: src/Core/Main.vala:1076
 msgid "Hourly snapshot failed!"
-msgstr ""
+msgstr "Øyeblikks bilde for hver time feilet!"
 
 #: src/Core/Main.vala:1057
 msgid "Hourly snapshots are enabled"
-msgstr ""
+msgstr "Øyeblikks bilde for hver time er skrudd på"
 
 #: src/Gtk/RestoreFinishBox.vala:102
 msgid ""
